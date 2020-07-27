@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# Tidak ada author Untuk Sc ini kecuali ./Kitsune yg Telah Mendesign Dengan Sempurna
+# Tidak ada author Untuk Sc ini kecuali ./AhmadSurya yg Telah Mendesign Dengan Sempurna
 # Update 26 january 2020 21:57
 # Recode!, dosa Tanggung Sendiri
 # Thanks For MyFriends, FourX, MhankBarBar, Maulana, Rexy
@@ -209,8 +209,8 @@ def multi():
 #-------------------------Fungsi Banner-----------------------
 def logo():
 	os.system('clear')
-	auth=m+'  Author : '+k+'./kitsune'
-	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
+	auth=m+'  Author : '+k+'./AhmadSurya'
+	# jika ingin m3namambah kan variabel dan mengubah data variabel AhmadSurya bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
 %s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
 %s┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s╚═╗╠═╝╠═╣║║║
